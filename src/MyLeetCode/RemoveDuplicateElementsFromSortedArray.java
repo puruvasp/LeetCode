@@ -10,7 +10,6 @@ class RemoveDuplicateElementsFromSortedArray {
                 k++;
             }
         }
-
         return k;
     }
 }
