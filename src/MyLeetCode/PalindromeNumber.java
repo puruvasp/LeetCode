@@ -12,7 +12,6 @@ class PalindromeNumber {
             i++;
             j--;
         }
-
         return true;
     }
 }
