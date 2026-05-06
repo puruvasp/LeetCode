@@ -1,4 +1,4 @@
-package MyLeetCode;
+package MyLeetCode.Strings;
 
 public class BestTimetoBuyandSellStock {
 
