@@ -1,4 +1,4 @@
-package MyLeetCode;
+package MyLeetCode.Strings;
 
 class ReverseString {
     public String reverseString(String s) {
