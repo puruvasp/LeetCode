@@ -16,7 +16,6 @@ public class LargestElement {
         for(int i = 1; i < n; i++){
             if(nums[i] > max) max = nums[i];
         }
-
         System.out.println(max);
     }
 }
